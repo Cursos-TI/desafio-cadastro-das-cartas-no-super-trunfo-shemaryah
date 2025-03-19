@@ -2,7 +2,7 @@
 
 int main() {
    
-     //Carta 1
+     // Cadastro Carta 1
     char estado[11] = "Pernambuco";
     char codigo_carta[3] = "B30";
     char cidade[6] = "Recife";
@@ -41,7 +41,7 @@ int main() {
     scanf("%d", &pontos_turisticos);
     printf("A quantidade de pontos turísticos digitada é: %d\n", pontos_turisticos);
     
-     //Carta 2
+     // Cadastro Carta 2
     char estado[11] = "Amazonas";
     char codigo_carta[3] = "A09";
     char cidade[6] = "Manaus";
